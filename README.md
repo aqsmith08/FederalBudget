@@ -7,6 +7,7 @@ Raw data is cleaned and tidied from original online sources using code saved in 
 
 ## Description of Included Docs
 1. [2016 White House Federal Budget:](https://github.com/WhiteHouse/2016-budget-data) The White House has posted three .csv files that can be used to reproduce many of the tables in the administration's budget books. The three files are:
+
 * budget authorizations
 * outlays
 * receipts
