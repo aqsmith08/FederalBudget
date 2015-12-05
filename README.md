@@ -1,5 +1,5 @@
 # FederalBudget
-Repository for cleaning and tidying key budget docs using R, using Hadley Wickham's packages wherever possible.
+Repository for cleaning and tidying key budget docs exclusively with R. Hadley Wickham's packages are employed whenever possible.
 
 ## Summary of Included Docs
 1. 2016 White House Federal Budget (FY16 PBR)
@@ -10,6 +10,7 @@ Repository for cleaning and tidying key budget docs using R, using Hadley Wickha
 * budget authorizations
 * outlays
 * receipts
+
 OMB's [user guide](https://github.com/WhiteHouse/2016-budget-data/blob/master/USER_GUIDE.md) includes necessary data definitions and many helpful references to supplemental budget materials. 
 
 
