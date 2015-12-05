@@ -1,5 +1,5 @@
 # FederalBudget
-R Repository for working with key budget docs. All data is first cleaned and tidied from original online sources using R code saved in the "Script" folder, then exported as a completed .csv file to the "Data" folder. As a matter of principle, Hadley Wickham's packages are employed whenever possible. 
+Raw data is cleaned and tidied from original online sources using code saved in the "Scripts" folder, then exported as a completed .csv file to the "Data" folder. As a matter of principle, Hadley Wickham's packages are employed whenever possible. 
 
 ## Summary of Included Docs
 1. 2016 White House Federal Budget (FY16 PBR)
